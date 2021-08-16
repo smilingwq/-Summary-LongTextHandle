@@ -1,0 +1,33 @@
+#ref {
+  width: 100px;
+  height: auto;
+  border: 1px solid blueviolet;
+  // color: blueviolet;
+}
+
+#box0 {
+  width: 100px;
+  height: auto;
+  border: 1px solid blueviolet;
+  white-space: pre;
+  // color: blueviolet;
+}
+
+#box1 {
+  width: 100px;
+  height: auto;
+  border: 1px solid blueviolet;
+  white-space: pre-wrap;
+  // color: blueviolet;
+}
+
+#box2 {
+  width: 100px;
+  height: auto;
+  border: 1px solid blueviolet;
+  white-space: pre-line;
+  word-wrap: break-word;
+  // word-break: break-all;
+
+  // color: blueviolet;
+}
